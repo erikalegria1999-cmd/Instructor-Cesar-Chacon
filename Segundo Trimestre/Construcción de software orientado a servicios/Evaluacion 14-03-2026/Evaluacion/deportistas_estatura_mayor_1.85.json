@@ -1,0 +1,83 @@
+[
+    {
+        "nombre": "Richard Ríos",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 78,
+        "deporte": "Fútbol",
+        "ciudad_residencia": "Vegachí"
+    },
+    {
+        "nombre": "Jhon Jader Durán",
+        "edad": 22,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 80,
+        "deporte": "Fútbol",
+        "ciudad_residencia": "Medellín"
+    },
+    {
+        "nombre": "Camilo Vargas",
+        "edad": 37,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 82,
+        "deporte": "Fútbol",
+        "ciudad_residencia": "Bogotá"
+    },
+    {
+        "nombre": "Nicolas Barrientos",
+        "edad": 38,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 79,
+        "deporte": "Tenis",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Adrian Ramos",
+        "edad": 40,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 80,
+        "deporte": "Fútbol",
+        "ciudad_residencia": "Santander de Quilichao"
+    },
+    {
+        "nombre": "Abel Aguilar",
+        "edad": 41,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 81,
+        "deporte": "Fútbol",
+        "ciudad_residencia": "Bogotá"
+    },
+    {
+        "nombre": "Jorge Mario Murillo",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 80,
+        "deporte": "Natación",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Ronal Longa",
+        "edad": 21,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 78,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Bogotá"
+    },
+    {
+        "nombre": "Fabián Serna",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 105,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Pereira"
+    }
+]

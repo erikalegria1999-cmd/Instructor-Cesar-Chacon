@@ -1,0 +1,26 @@
+[
+    {
+        "producto": "Escritorio Elevable",
+        "precio": 350.0,
+        "cantidad": 3,
+        "ValorTotal": 1050.0
+    },
+    {
+        "producto": "Tableta Gráfica",
+        "precio": 199.99,
+        "cantidad": 4,
+        "ValorTotal": 799.96
+    },
+    {
+        "producto": "Tarjeta de Video RTX",
+        "precio": 550.0,
+        "cantidad": 3,
+        "ValorTotal": 1650.0
+    },
+    {
+        "producto": "Placa Base Z790",
+        "precio": 210.0,
+        "cantidad": 4,
+        "ValorTotal": 840.0
+    }
+]

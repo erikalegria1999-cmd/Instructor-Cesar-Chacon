@@ -1,0 +1,50 @@
+[
+    {
+        "Departamento": "Cauca",
+        "Cantidad_Votantes_Hombres": 1200,
+        "Cantidad_Votantes_Mujeres": 2400,
+        "Total_Votantes": 3600,
+        "Porcentaje_Hombres": 0.33,
+        "Porcentaje_Mujeres": 0.67
+    },
+    {
+        "Departamento": "Antioquia",
+        "Cantidad_Votantes_Hombres": 45000,
+        "Cantidad_Votantes_Mujeres": 48000,
+        "Total_Votantes": 93000,
+        "Porcentaje_Hombres": 0.48,
+        "Porcentaje_Mujeres": 0.52
+    },
+    {
+        "Departamento": "Nariño",
+        "Cantidad_Votantes_Hombres": 15000,
+        "Cantidad_Votantes_Mujeres": 18500,
+        "Total_Votantes": 33500,
+        "Porcentaje_Hombres": 0.45,
+        "Porcentaje_Mujeres": 0.55
+    },
+    {
+        "Departamento": "Atlántico",
+        "Cantidad_Votantes_Hombres": 25000,
+        "Cantidad_Votantes_Mujeres": 29000,
+        "Total_Votantes": 54000,
+        "Porcentaje_Hombres": 0.46,
+        "Porcentaje_Mujeres": 0.54
+    },
+    {
+        "Departamento": "Chocó",
+        "Cantidad_Votantes_Hombres": 8000,
+        "Cantidad_Votantes_Mujeres": 9500,
+        "Total_Votantes": 17500,
+        "Porcentaje_Hombres": 0.46,
+        "Porcentaje_Mujeres": 0.54
+    },
+    {
+        "Departamento": "Caldas",
+        "Cantidad_Votantes_Hombres": 11000,
+        "Cantidad_Votantes_Mujeres": 12000,
+        "Total_Votantes": 23000,
+        "Porcentaje_Hombres": 0.48,
+        "Porcentaje_Mujeres": 0.52
+    }
+]

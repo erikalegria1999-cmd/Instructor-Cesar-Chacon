@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Pagina Web</title>
+</head>
+<body>
+
+    <h2>Tecnólogo en Análisis y Desarrollo de Software</h2>
+    <p>Texto de párrafo</p>
+    <img src="SENA.jpg" width="50" height="50" alt="50">
+    <br>
+    <div id="textoDiv1">
+        Texto inicial
+    </div>
+
+    <!-- TABLA -->
+    <table border="1" style="background-color: burlywood;">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Correo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Maria</td>
+                <td>Rojas</td>
+                <td>Mrojas@gmail.com</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <br>
+
+    <!-- BOTONES -->
+    <button onclick="mostrarMensaje()">Clic aquí</button>
+    <button onclick="pedirDatos()">Pedir Datos</button>
+    <button onclick="editarTexto()">Editar Datos</button>
+
+    <br><br>
+
+    <!-- RESULTADO -->
+    <div>Datos ingresados</div>
+    <div>
+        Nombre: <span id="nombre"></span><br>
+        Apellido: <span id="apellido"></span><br>
+        Correo: <span id="correo"></span>
+    </div>
+
+    
+    <!-- listas-->
+    <p>Lista de paises</p>
+    <ol>
+        <li>Colombia</li>
+        <li>Peru</li>
+    </ol>
+
+    <!-- SCRIPTS -->
+    <script>
+        function mostrarMensaje(){
+            alert("Hola, bienvenido...");
+        }
+
+        function pedirDatos(){
+            let nombre = prompt("Ingrese su nombre:");
+            let apellido = prompt("Ingrese su apellido:");
+            let correo = prompt("Ingrese su correo:");
+
+            document.getElementById("nombre").textContent = nombre;
+            document.getElementById("apellido").textContent = apellido;
+            document.getElementById("correo").textContent = correo;
+        }
+    </script>
+
+</body>
+</html>

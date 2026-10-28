@@ -1,0 +1,240 @@
+a:link {text-decoration:none; color: #ad1e24;}
+a:visited {text-decoration:none; color: #ad1e24;}
+a:hover {text-decoration:underline; color: #ad1e24;}
+
+#Stage, .box-shadow {
+    box-shadow: 0 0 25px rgba(0,0,0,0.75);
+}
+#Stage_menu_opciones_contenido_opciones_bt_opciones6 {
+    visibility: hidden; 
+}
+
+@font-face {
+  font-family:'abel';
+  src: url('abel.ttf');
+  src: url('abel.eot?#iefix') format('embedded-opentype'), url('abel.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Botón con escala*/
+.btn {transition: 0.25s;
+	transform: scale(1) !important;}
+.btn:hover {transform: scale(1.08) !important;}
+
+/* botones navegacion */
+.bt_introduccion:hover { background-image:url(bt_introduccion_hover.svg) !important;}
+.bt_home:hover { background-image:url(bt_home_hover.svg) !important;}
+.bt_cerrar:hover { background-image:url(bt_cerrar_hover.svg) !important;}
+.bt_siguiente:hover { background-image:url(bt_siguiente_hover.svg) !important;}
+.bt_anterior:hover { background-image:url(bt_anterior_hover.svg) !important;}
+
+/* botones menú OA*/
+.bt1:hover { background-image:url(bt1_hover.svg) !important;}
+.bt2:hover {background-image: url(bt2_hover.svg) !important;}
+.bt3:hover {background-image: url(bt3_hover.svg) !important;}
+.bt4:hover {background-image: url(bt4_hover.svg) !important;}
+.bt5:hover {background-image: url(bt5_hover.svg) !important;}
+.bt6:hover {background-image: url(bt6_hover.svg) !important;}
+.bt7:hover {background-image: url(bt7_hover.svg) !important;}
+.bt15:hover {background-image: url(bt15_hover.svg) !important;}
+.bt16:hover {background-image: url(bt16_hover.svg) !important;}
+.bt17:hover {background-image: url(bt17_hover.svg) !important;}
+.bt18:hover {background-image: url(bt18_hover.svg) !important;}
+
+
+
+/*Viñeta*/
+/*ul { list-style-image:url(vineta.svg);
+height:auto;}*/
+
+/*https://www.toptal.com/designers/htmlarrows/symbols/*/
+
+ul { list-style: none;}
+
+li { position: relative;}
+
+li:before {
+    position: absolute;  
+    margin: -2px 0 0 -16px;    
+    content: "\273D";
+	color:#FF9F1B;
+}
+
+.dos ul{ list-style-image:url(vineta2.png);
+height:auto;}
+
+/*lista letra*/
+
+.tres ol
+{
+    list-style-type: none;
+    list-style-type: decimal !ie; /*IE 7- hack*/
+    margin: 0;
+    margin-left: 2em;
+    padding: 0;
+    counter-reset: li-counter;
+}
+.tres ol > li{
+    position: relative;
+    margin-bottom: 4px;
+    padding-left: 0.5em;
+    min-height: 22px;
+    border-left: 2px solid #CCCCCC;
+}
+.tres ol > li:before {
+    position: absolute;
+    top: 0;
+    left: -0.8em;
+    width: 0.8em;
+    font-size: 16px;
+    line-height: 1;
+    font-weight: bold;
+    text-align: right;
+    color: #FF9F1B;
+    content: counter(li-counter, lower-alpha);
+    counter-increment: li-counter;
+}
+
+/*lista romanos*/
+
+.cinco ol
+{
+    list-style-type: none;
+    list-style-type: decimal !ie; /*IE 7- hack*/
+    margin: 0;
+    margin-left: 1em;
+    padding: 0;
+    counter-reset: li-counter;
+}
+.cinco ol > li{
+    position: relative;
+    margin-bottom: 4px;
+    padding-left: 0.5em;
+    min-height: 18px;
+    border-left: 2px solid #CCCCCC;
+}
+.cinco ol > li:before {
+    position: absolute;
+    top: 0;
+    left: -1.4em;
+    width: 1.8em;
+    font-size: 16px;
+    line-height: 1;
+    font-weight: bold;
+    text-align: right;
+    color: #7CB342;
+    content: counter(li-counter, decimal);
+    counter-increment: li-counter;
+}
+
+
+/*lista anidada*/
+.ani ol {
+    list-style-type: none;
+    list-style-type: decimal !ie; /*IE 7- hack*/
+    margin: 0;
+    margin-left: 2em;
+    padding: 0;
+    counter-reset: li-counter;
+}
+.ani ol > li{
+    position: relative;
+    margin-bottom: 4px;
+    padding-left: 0.5em;
+    min-height: 22px;
+    border-left: 2px solid #CCCCCC;
+}
+.ani ol li ol > li{
+	
+}
+
+.ani ol > li:before {
+    position: absolute;
+    top: 0;
+    left: -1.2em;
+    width: 0.8em;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: bold;
+    text-align: right;
+    color: #7A2160;
+    content: counter(li-counter);
+    counter-increment: li-counter;
+}
+.ani ol li ol > li:before {
+    content: counter(li-counter, lower-alpha);
+	 font-size: 18px;
+    counter-increment: li-counter;
+}
+
+
+/* botones menú opciones*/
+.bt_opciones1:hover { background-image:url(bt_opciones1_b.svg) !important;}
+.bt_opciones2:hover { background-image:url(bt_opciones2_b.svg) !important;}
+.bt_opciones3:hover { background-image:url(bt_opciones3_b.svg) !important;}
+.bt_opciones4:hover { background-image:url(bt_opciones4_b.svg) !important;}
+.bt_opciones5:hover { background-image:url(bt_opciones5_b.svg) !important;}
+.bt_opciones6:hover { background-image:url(bt_opciones6_b.svg) !important;}
+.bt_instalacion:hover { background-image:url(bt_instalacion_hover.svg) !important;}
+.bt_tabla:hover { background-image:url(bt_tabla_hover.svg) !important;}
+.bt_modelo:hover { background-image:url(bt_modelo_hover.svg) !important;}
+
+
+.bt_ejemplo:hover { background-image:url(bt_ejemplo_hover.svg) !important;}
+.bt_anexo1:hover { background-image:url(bt_anexo1_hover.svg) !important;}
+.bt_anexo:hover { background-image:url(bt_anexo_hover.svg) !important;}
+.bt_componentes:hover { background-image:url(bt_componentes_hover.svg) !important;}
+
+
+
+
+
+/*Tabla*/
+.uno table {
+    border-collapse: collapse;
+	width: 100%;
+	background:#FFFFFF;
+}
+
+.uno th, td {
+	border: 1px solid #333333;
+	padding: 5px 8px;
+}
+
+
+.uno th {
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	background-color: #7CB342;
+}
+
+.uno td:nth-child(1) {
+	color: #333333;
+	font-weight: bold;
+	text-align: center;
+background-color: #EDEDED;
+}
+
+
+
+.dos table {
+    border-collapse: collapse;
+	width: 100%;
+	background:#f4efe9;
+}
+
+.dos th, td {
+	border: 1px solid #3f3f3e;
+	padding: 5px 8px;
+}
+
+
+.dos th {
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	background-color: #d26859;
+}
+

@@ -1,0 +1,263 @@
+[
+    {
+        "nombre": "Egan Bernal",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 60,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquirá"
+    },
+    {
+        "nombre": "Rigoberto Urán",
+        "edad": 39,
+        "sexo": "Masculino",
+        "estatura": 1.73,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Medellín"
+    },
+    {
+        "nombre": "Fernando Gaviria",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 71,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Santiago Buitrago",
+        "edad": 26,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 59,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Bogotá"
+    },
+    {
+        "nombre": "Daniel Felipe Martínez",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Soacha"
+    },
+    {
+        "nombre": "Harold Tejada",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 65,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pitalito"
+    },
+    {
+        "nombre": "Paula Patiño",
+        "edad": 28,
+        "sexo": "Femenino",
+        "estatura": 1.63,
+        "peso": 52,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Egan Bernal",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 60,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquirá"
+    },
+    {
+        "nombre": "Nairo Quintana",
+        "edad": 36,
+        "sexo": "Masculino",
+        "estatura": 1.67,
+        "peso": 59,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Cómbita"
+    },
+    {
+        "nombre": "Rigoberto Urán",
+        "edad": 39,
+        "sexo": "Masculino",
+        "estatura": 1.73,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Urrao"
+    },
+    {
+        "nombre": "Sergio Higuita",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.63,
+        "peso": 57,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Medellín"
+    },
+    {
+        "nombre": "Esteban Chaves",
+        "edad": 36,
+        "sexo": "Masculino",
+        "estatura": 1.64,
+        "peso": 55,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Bogotá"
+    },
+    {
+        "nombre": "Miguel Ángel López",
+        "edad": 32,
+        "sexo": "Masculino",
+        "estatura": 1.64,
+        "peso": 59,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pesca"
+    },
+    {
+        "nombre": "Brandon Rivera",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 66,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquirá"
+    },
+    {
+        "nombre": "Einer Rubio",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.64,
+        "peso": 56,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Chíquiza"
+    },
+    {
+        "nombre": "Fernando Gaviria",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 71,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Juan Sebastián Molano",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 72,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Paipa"
+    },
+    {
+        "nombre": "Ivan Ramiro Sosa",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.67,
+        "peso": 52,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pasca"
+    },
+    {
+        "nombre": "Winner Anacona",
+        "edad": 37,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 64,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Tunja"
+    },
+    {
+        "nombre": "Diego Camargo",
+        "edad": 27,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 58,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Tuta"
+    },
+    {
+        "nombre": "Jesus David Peña",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 56,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquirá"
+    },
+    {
+        "nombre": "Dayer Quintana",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.67,
+        "peso": 58,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Cómbita"
+    },
+    {
+        "nombre": "Argiro Zapata",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 65,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Medellín"
+    },
+    {
+        "nombre": "Walter Vargas",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.83,
+        "peso": 70,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "El Carmen de Viboral"
+    },
+    {
+        "nombre": "Rodrigo Contreras",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.76,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Villapinzón"
+    },
+    {
+        "nombre": "Diana Peñuela",
+        "edad": 39,
+        "sexo": "Femenino",
+        "estatura": 1.65,
+        "peso": 55,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Manizales"
+    },
+    {
+        "nombre": "Liliana Moreno",
+        "edad": 33,
+        "sexo": "Femenino",
+        "estatura": 1.55,
+        "peso": 46,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Bogotá"
+    },
+    {
+        "nombre": "Erika Botero",
+        "edad": 25,
+        "sexo": "Femenino",
+        "estatura": 1.6,
+        "peso": 50,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Unión"
+    },
+    {
+        "nombre": "Lina Hernández",
+        "edad": 26,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 54,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "El Carmen de Viboral"
+    }
+]

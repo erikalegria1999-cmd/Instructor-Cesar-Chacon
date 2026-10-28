@@ -1,0 +1,93 @@
+
+             GUÍA DE INSTALACIÓN Y CONFIGURACIÓN DE FLASK
+
+1. CREAR EL ENTORNO VIRTUAL
+
+Abre la terminal en la carpeta de tu proyecto y ejecuta el siguiente 
+
+comando para crear un entorno virtual llamado "entorno":
+
+   python -m venv entorno
+
+2. ACTIVAR EL ENTORNO VIRTUAL
+
+Para empezar a trabajar dentro del entorno virtual, ejecútalo así:
+
+   En Windows (PowerShell / CMD):
+
+   entorno\Scripts\activate
+
+   (Sabrás que está activo cuando veas "(entorno)" al inicio de la terminal).
+
+3. INSTALAR FLASK
+Con el entorno virtual activo, instala la librería de Flask utilizando pip:
+   pip install flask
+
+4. ESTRUCTURA DE CARPETAS DEL PROYECTO
+Es obligatorio organizar los archivos del proyecto con la siguiente estructura:
+
+   web-flash/
+
+   │
+
+   ├── entorno/
+
+   ├── templates/            <-- CARPETA OBLIGATORIA PARA ARCHIVOS HTML
+
+   │   ├── index.html
+
+   │   ├── tabla.html
+
+   │   └── frmlProducto.html
+
+   │
+
+   └── app.py                <-- ARCHIVO PRINCIPAL DE PYTHON
+
+5. CÓDIGO BASE EN APP.PY
+En el archivo principal `app.py`, configura las rutas, captura de 
+
+datos por método POST y renderizado de plantillas:
+
+   from flask import Flask, request, render_template
+   app = Flask(__name__)
+   lista_productos = []
+   @app.route("/")
+   def home():
+
+       return render_template("index.html", usuario="santiago")
+
+   @app.route("/tabla")
+
+   def mostrarTabla():
+
+       return render_template("tabla.html", productos=lista_productos)
+
+
+   @app.route("/productos", methods=["GET", "POST"])
+
+   def productos():
+
+       if request.method == "GET":
+
+           return render_template("frmlProducto.html")
+
+       else: 
+
+           codigo = request.form["txtCodigo"]
+
+           nombre = request.form["txtNombre"]
+
+           precio = request.form["txtPrecio"]
+
+
+
+           lista_productos.append([codigo, nombre, precio])
+
+           return render_template("tabla.html", productos=lista_productos)
+
+
+
+   if __name__ == '__main__':
+
+       app.run(port=5000, debug=True)

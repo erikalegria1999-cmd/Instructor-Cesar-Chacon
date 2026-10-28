@@ -1,0 +1,6 @@
+ID,Producto,Stock,Precio,Proveedor,valor_total
+1,Laptop Pro,10,1200.0,TechSol,12000.0
+2,Mouse Base,50,15.0,LogiPlus,750.0
+3,Monitor 24,15,180.0,VisionPro,2700.0
+4,Teclado USB,30,25.0,KeyMaster,750.0
+5,Silla Ofis,8,95.0,DecoHome,760.0

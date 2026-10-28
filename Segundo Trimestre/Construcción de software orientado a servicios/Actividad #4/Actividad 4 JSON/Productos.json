@@ -1,0 +1,252 @@
+[
+        {
+                "producto": "Laptop Pro 15",
+                "precio": 1200.5,
+                "cantidad": 8
+        },
+        {
+                "producto": "Mouse Ergon\u00f3mico",
+                "precio": 25.99,
+                "cantidad": 45
+        },
+        {
+                "producto": "Teclado Mec\u00e1nico RGB",
+                "precio": 85.0,
+                "cantidad": 20
+        },
+        {
+                "producto": "Monitor 27 Pulgadas",
+                "precio": 299.99,
+                "cantidad": 12
+        },
+        {
+                "producto": "Auriculares Bluetooth",
+                "precio": 59.5,
+                "cantidad": 30
+        },
+        {
+                "producto": "C\u00e1mara Web 1080p",
+                "precio": 45.0,
+                "cantidad": 15
+        },
+        {
+                "producto": "Micr\u00f3fono Condensador",
+                "precio": 110.0,
+                "cantidad": 10
+        },
+        {
+                "producto": "Silla de Oficina",
+                "precio": 180.75,
+                "cantidad": 5
+        },
+        {
+                "producto": "Escritorio Elevable",
+                "precio": 350.0,
+                "cantidad": 3
+        },
+        {
+                "producto": "L\u00e1mpara LED Escritorio",
+                "precio": 19.99,
+                "cantidad": 50
+        },
+        {
+                "producto": "Disco Duro Externo 2TB",
+                "precio": 75.0,
+                "cantidad": 25
+        },
+        {
+                "producto": "Memoria USB 64GB",
+                "precio": 12.5,
+                "cantidad": 100
+        },
+        {
+                "producto": "Tarjeta SD 128GB",
+                "precio": 22.0,
+                "cantidad": 60
+        },
+        {
+                "producto": "Hub USB-C",
+                "precio": 35.0,
+                "cantidad": 18
+        },
+        {
+                "producto": "Cargador R\u00e1pido 65W",
+                "precio": 29.99,
+                "cantidad": 40
+        },
+        {
+                "producto": "Cable HDMI 2.1",
+                "precio": 15.5,
+                "cantidad": 80
+        },
+        {
+                "producto": "Smartphone Alpha",
+                "precio": 899.0,
+                "cantidad": 7
+        },
+        {
+                "producto": "Funda para Laptop",
+                "precio": 18.0,
+                "cantidad": 35
+        },
+        {
+                "producto": "Adaptador Ethernet",
+                "precio": 14.99,
+                "cantidad": 22
+        },
+        {
+                "producto": "Power Bank 20000mAh",
+                "precio": 49.0,
+                "cantidad": 14
+        },
+        {
+                "producto": "Impresora L\u00e1ser",
+                "precio": 150.0,
+                "cantidad": 6
+        },
+        {
+                "producto": "T\u00f3ner Negro",
+                "precio": 40.0,
+                "cantidad": 12
+        },
+        {
+                "producto": "Papel A4 (500 hojas)",
+                "precio": 5.5,
+                "cantidad": 200
+        },
+        {
+                "producto": "Altavoces 2.1",
+                "precio": 65.0,
+                "cantidad": 9
+        },
+        {
+                "producto": "Router Wi-Fi 6",
+                "precio": 120.0,
+                "cantidad": 11
+        },
+        {
+                "producto": "Repetidor de Se\u00f1al",
+                "precio": 30.0,
+                "cantidad": 28
+        },
+        {
+                "producto": "Tableta Gr\u00e1fica",
+                "precio": 199.99,
+                "cantidad": 4
+        },
+        {
+                "producto": "L\u00e1piz Digital",
+                "precio": 45.0,
+                "cantidad": 16
+        },
+        {
+                "producto": "Soporte para Monitor",
+                "precio": 39.5,
+                "cantidad": 20
+        },
+        {
+                "producto": "Alfombrilla XL",
+                "precio": 12.0,
+                "cantidad": 55
+        },
+        {
+                "producto": "Ventilador PC 120mm",
+                "precio": 9.99,
+                "cantidad": 40
+        },
+        {
+                "producto": "Pasta T\u00e9rmica",
+                "precio": 7.5,
+                "cantidad": 100
+        },
+        {
+                "producto": "Gabinete Mid-Tower",
+                "precio": 89.0,
+                "cantidad": 6
+        },
+        {
+                "producto": "Fuente de Poder 750W",
+                "precio": 110.0,
+                "cantidad": 8
+        },
+        {
+                "producto": "Memoria RAM 16GB",
+                "precio": 65.0,
+                "cantidad": 24
+        },
+        {
+                "producto": "Procesador i7 Gen 13",
+                "precio": 380.0,
+                "cantidad": 5
+        },
+        {
+                "producto": "Tarjeta de Video RTX",
+                "precio": 550.0,
+                "cantidad": 3
+        },
+        {
+                "producto": "Placa Base Z790",
+                "precio": 210.0,
+                "cantidad": 4
+        },
+        {
+                "producto": "SSD NVMe 1TB",
+                "precio": 95.0,
+                "cantidad": 18
+        },
+        {
+                "producto": "Enfriamiento L\u00edquido",
+                "precio": 130.0,
+                "cantidad": 7
+        },
+        {
+                "producto": "Smartwatch V2",
+                "precio": 210.0,
+                "cantidad": 12
+        },
+        {
+                "producto": "Protector de Pantalla",
+                "precio": 8.0,
+                "cantidad": 150
+        },
+        {
+                "producto": "Cargador Inal\u00e1mbrico",
+                "precio": 25.0,
+                "cantidad": 30
+        },
+        {
+                "producto": "Tr\u00edpode para C\u00e1mara",
+                "precio": 45.0,
+                "cantidad": 10
+        },
+        {
+                "producto": "Mochila Antirrobo",
+                "precio": 55.0,
+                "cantidad": 20
+        },
+        {
+                "producto": "Organizador de Cables",
+                "precio": 6.99,
+                "cantidad": 120
+        },
+        {
+                "producto": "Limpiador de Pantallas",
+                "precio": 5.0,
+                "cantidad": 85
+        },
+        {
+                "producto": "Candado para Laptop",
+                "precio": 15.0,
+                "cantidad": 33
+        },
+        {
+                "producto": "Luz de Anillo Video",
+                "precio": 32.5,
+                "cantidad": 14
+        },
+        {
+                "producto": "Soporte para Tablet",
+                "precio": 19.0,
+                "cantidad": 25
+        }
+]

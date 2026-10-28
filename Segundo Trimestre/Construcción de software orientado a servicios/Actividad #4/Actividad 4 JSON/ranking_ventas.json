@@ -1,0 +1,26 @@
+[
+    {
+        "vendedor": "Laura",
+        "total_ventas": 6900
+    },
+    {
+        "vendedor": "Carlos",
+        "total_ventas": 6300
+    },
+    {
+        "vendedor": "Maria",
+        "total_ventas": 6150
+    },
+    {
+        "vendedor": "Ana",
+        "total_ventas": 6100
+    },
+    {
+        "vendedor": "Pedro",
+        "total_ventas": 3750
+    },
+    {
+        "vendedor": "Luis",
+        "total_ventas": 3380
+    }
+]
